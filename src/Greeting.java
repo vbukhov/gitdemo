@@ -1,3 +1,5 @@
+package src;
+
 public class Greeting{
 	@Override
 	public String toString(){
